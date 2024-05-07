@@ -1,7 +1,7 @@
 Scalizer Mail Template Multi Company
 ===============
 
-This module a code field on mail templates to retrieve templates in multi-company mode.
+This module adds a code field on mail templates to retrieve templates in multi-company mode.
 
 <br>
 <br>
