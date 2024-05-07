@@ -17,7 +17,7 @@ mail_template_id = self.env['mail.template'].get_by_code('welcome_email')
 
 ## Requirements
 
-OCA addon [mail_template_multi_company](https://github.com/OCA/multi-company/tree/16.0/mail_template_multi_company) is required. 
+OCA addon [mail_template_multi_company](https://github.com/OCA/multi-company/tree/16.0/mail_template_multi_company) is required.
 
 ## Authors
 
