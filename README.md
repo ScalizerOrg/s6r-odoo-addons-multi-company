@@ -1,1 +1,1 @@
-# s6r-odoo-addons-template
+# Scalizer Odoo Addons Multi Company
