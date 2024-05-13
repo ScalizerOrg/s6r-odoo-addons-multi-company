@@ -7,7 +7,7 @@
     'website': 'https://www.scalizer.fr',
     'summary': "Retrieve templates by code in multi-company mode",
     'sequence': 0,
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'depends': [
         'mail_template_multi_company',  # OCA/multi-company
     ],
