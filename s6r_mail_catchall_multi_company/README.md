@@ -1,7 +1,7 @@
 Scalizer Mail Catchall Multi Company
 ===============
 
-This module adds a code field on companies to retrieve catchall domain in multi-company mode.
+This module adds a field on companies to retrieve catchall domain in multi-company mode.
 
 <br>
 <br>
