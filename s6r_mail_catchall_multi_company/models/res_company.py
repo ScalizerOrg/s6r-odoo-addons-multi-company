@@ -8,3 +8,4 @@ class ResCompany(models.Model):
     _inherit = 'res.company'
     
     mail_catchall_domain = fields.Char()
+    mail_default_from = fields.Char()
